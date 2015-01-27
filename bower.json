@@ -1,0 +1,20 @@
+{
+    "name": "ng-rest-resource",
+    "version": "0.0.0",
+    "authors": [
+        "Gustavo Ajzenman <gustavoajz@gmail.com>"
+    ],
+    "main": "main.js",
+    "moduleType": [
+        "globals"
+    ],
+    "license": "MIT",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
